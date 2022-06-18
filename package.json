@@ -10,7 +10,7 @@
     "start": "node src"
   },
   "dependencies": {
-    "discord.js-docs": "github:teeseal/discord.js-docs",
+    "discord.js-docs": "github:infinitytmbots/discord.js-docs",
     "express": "^4.17.1",
     "morgan": "^1.9.1"
   },
